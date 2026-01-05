@@ -1,0 +1,5 @@
+snowflake-connector-python==3.6.0
+streamlit
+pandas
+python-dotenv
+keyring
